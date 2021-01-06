@@ -1,1 +1,1 @@
-web: gunicorn dhilipan_quiz.wsgi --log-file -
+web: gunicorn online_test.wsgi --log-file -
